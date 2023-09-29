@@ -6,3 +6,4 @@ This repository is part of the [Playwright - Complete Beginner Course](https://w
 
 ## Run test
 `npx playwright test {filename}`
+# playwright-test
